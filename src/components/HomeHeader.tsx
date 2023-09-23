@@ -35,10 +35,10 @@ const HomeHeader = () => {
           autoPlay
           loop
           muted
-          poster={poster.src}
-          className="w-full max-h-screen object-cover object-center fixed bg-no-repeat -z-10"
+          poster="https://res.cloudinary.com/doqobsccu/image/upload/v1695469900/soul-trails/aZ1nd7MH27A-HD_zx1or1.jpg"
+          className="w-full h-screen object-cover object-center fixed bg-no-repeat -z-10"
         >
-          <source src="/vd.mp4" />
+          <source src='https://firebasestorage.googleapis.com/v0/b/soul-trails.appspot.com/o/vd.mp4?alt=media&token=b88b86e4-5020-4d2f-9053-2265fe2327c0' />
         </video>
       </header>
     </>
