@@ -38,7 +38,7 @@ const HomeHeader = () => {
           poster="https://res.cloudinary.com/doqobsccu/image/upload/v1695469900/soul-trails/aZ1nd7MH27A-HD_zx1or1.jpg"
           className="w-full h-screen object-cover object-center fixed bg-no-repeat -z-10"
         >
-          <source src='https://firebasestorage.googleapis.com/v0/b/soul-trails.appspot.com/o/vd.mp4?alt=media&token=b88b86e4-5020-4d2f-9053-2265fe2327c0' />
+          <source src='https://d3epuhninzjfg.cloudfront.net/test/vd.mp4' />
         </video>
       </header>
     </>
